@@ -53,6 +53,6 @@ for (let i = 0; i < names_Of_Guests.length; i++) {
     );
   };
   names_Of_Guests.splice(0,2);
-  console.log(names_Of_Guests);     //**the array is noy empty.*/
+  console.log(names_Of_Guests);     //**the array is now empty.*/
 
   
