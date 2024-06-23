@@ -32,5 +32,5 @@ console.log("Test whether an item is in a array :-");
 console.log(arrayOfNames.includes("Rahul") === true);
 // • Test whether an item is not in a array
 console.log("Test whether an item is not in a array :-");
-console.log(arrayOfNames.includes("Hamza Alvi") === false);
+console.log(!arrayOfNames.includes("Hamza Alvi") === false);
 export {};
